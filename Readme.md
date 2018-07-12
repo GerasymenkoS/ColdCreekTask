@@ -24,6 +24,11 @@ Installation dependencies:
 ``` shell
 $ npm i
 ```
+Build server code:
+``` shell
+$ npm run build-server
+```
+
 Start the development web server:
 ``` shell
 $ npm run dev
